@@ -1,4 +1,5 @@
-.venv
-.DS_Store
+.venv/
+.vscode/
 __pycache__/
-*.pth
+__MACOSX/
+.DS_Store
